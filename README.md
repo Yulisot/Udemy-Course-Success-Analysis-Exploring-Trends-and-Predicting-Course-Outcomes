@@ -1,1 +1,1 @@
-# Udemy-Course-Success-Analysis-Exploring-Trends-and-Predicting-Course-Outcomes
+This data science project analyzes and predicts the success of courses on Udemy. It involves web scraping, exploratory data analysis, visualization, and building a machine learning model. The project identifies factors influencing course success and develops a model for reliable predictions. It offers insights for optimizing course offerings and engagement on Udemy.
